@@ -4,7 +4,7 @@
 		xmlns:controls="clr-namespace:SnakeProject.Controls"
         Title="Snake" Width ="1000" WindowState="Maximized" Loaded="Window_Loaded_1">
 	<Window.Background>
-		<ImageBrush ImageSource="C:\Users\Junior\Desktop\MyProjects\SnakeProject\SnakeProject\Img\snake-bck"></ImageBrush>
+        <ImageBrush ImageSource="pack://application:,,,/Img/snake-bck"></ImageBrush>
 	</Window.Background>
 	<Grid >
 		<Grid.RowDefinitions>

@@ -1,0 +1,29 @@
+Start game: press one of the arrrow keys
+or letter's WSAD on your keyboard
+
+Pause game: press letter P on your keyboard
+or Pause button
+
+Unpause game: use one of the direction keys
+
+Restart game: press letter R on your keyboard
+or Reset button
+Save highscore: press Save button
+Go back to main menu: press Menu button
+
+Direction keys:
+Move up: up arrow or letter W
+Move left: left arrow or letter A
+Move right: right arrow or letter D
+Move down: down arrow or letter S
+
+
+The goal of the game is to move your snake 
+in various directions to get as many fruit as you can.
+Fruit is represented by green square and your snake
+by red square's.As you collect fruit your score
+groves by one for every fruit and also your 
+snake body get's bigger.After every three fruits you change 
+level and snake speed goes up.
+
+B&B
